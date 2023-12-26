@@ -1042,7 +1042,7 @@ Screenshots for admin\_page:
 
 Screenshots for search\_flights:
 
-![Screenshot (829)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.015.png)
+![Screenshot (829)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.015.png)
 
 ![Screenshot (830)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.016.png)
 
