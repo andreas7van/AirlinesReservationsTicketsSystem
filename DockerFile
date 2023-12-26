@@ -1,0 +1,28 @@
+#Set the base image
+FROM python:3.7-slim-buster
+
+# Set the working directory
+WORKDIR /project
+
+
+COPY requirements.txt .
+
+# Install the required packages
+RUN pip3 install -r requirements.txt
+
+# Install the required packages
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+# Expose the port
+EXPOSE 5000
+
+# Set the environment variables
+ENV MONGO_HOST=mongodb
+ENV MONGO_PORT=27017
+ENV MONGO_DB=DigitalAirlines
+
+# Run the application
+CMD ["python", "e20013_InfoSys.py"]
+

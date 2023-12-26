@@ -1,0 +1,32 @@
+exit
+db.reservations.find()
+db.flights.find()
+db.users.find()
+use DigitalAirlines
+db.users.find()
+show dbs
+exit
+db.reservations.find()
+db.users.find()
+db.reservations.find()
+db.users.find()
+db.flights.find()
+db.reservations.find()
+db.flights.find()
+db.reservations.find()
+db.flights.find()
+db.reservations.find()
+db.flights.find()
+db.users.find()
+db.reservations.find()
+db.users.find()
+use DigitalAirlines
+db.users.find()
+use DigitalAirlines
+show dbs
+db.users.find()
+db.reservations.find()
+db.flights.find()
+db.users.find()
+use DigitalAirlines
+show dbs
