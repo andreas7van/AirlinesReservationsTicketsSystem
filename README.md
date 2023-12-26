@@ -982,9 +982,9 @@ Screenshots for register:
 
 ![Screenshot (820)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.001.png)
 
-![Screenshot (821)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.002.png)
+![Screenshot (821)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.002.png)
 
-![Screenshot (822)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.003.png)
+![Screenshot (822)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.003.png)
 
 **Ενότητα 3.2(Είσοδος χρήστη ή διαχειριστή):**
 
@@ -996,17 +996,17 @@ Screenshots for register:
 
 Screenshots for login:
 
-![Screenshot (823)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.004.png)
+![Screenshot (823)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.004.png)
 
-![Screenshot (824)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.005.png)
+![Screenshot (824)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.005.png)
 
-![Screenshot (825)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.006.png)
+![Screenshot (825)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.006.png)
 
-![Screenshot (826)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.007.png)
+![Screenshot (826)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.007.png)
 
-![Screenshot (838)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.008.png)
+![Screenshot (838)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.008.png)
 
-![Screenshot (839)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.009.png)
+![Screenshot (839)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.009.png)
 
 **Ενότητα 3.3(Έξοδος χρήστη ή διαχειριστή):**
 
@@ -1014,9 +1014,9 @@ Screenshots for login:
 
 Screenshots for logout:
 
-![Screenshot (851)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.010.png)
+![Screenshot (851)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.010.png)
 
-![Screenshot (852)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.011.png)
+![Screenshot (852)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.011.png)
 
 **Ενότητα 3.4(Καλοσώρισμα χρήστη ):**
 
@@ -1024,7 +1024,7 @@ Screenshots for logout:
 
 Screenshots for user\_page:
 
-![Screenshot (827)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.012.png)
+![Screenshot (827)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.012.png)
 
 **Ενότητα 3.5(Καλοσώρισμα διαχειριστή ):**
 
@@ -1032,9 +1032,9 @@ Screenshots for user\_page:
 
 Screenshots for admin\_page:
 
-![Screenshot (828)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.013.png)
+![Screenshot (828)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.013.png)
 
-![Screenshot (840)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.014.png)
+![Screenshot (840)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.014.png)
 
 **Ενότητα 3.6(Αναζήτηση πτήσεων ):**
 
@@ -1042,9 +1042,9 @@ Screenshots for admin\_page:
 
 Screenshots for search\_flights:
 
-![Screenshot (829)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.015.png)
+![Screenshot (829)](screenshots/screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.015.png)
 
-![Screenshot (830)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.016.png)
+![Screenshot (830)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.016.png)
 
 **Ενότητα 3.7(Δημιουργία κράτησης):**
 
@@ -1056,9 +1056,9 @@ Screenshots for search\_flights:
 
 Screenshots for reservation\_ticket:
 
-![Screenshot (833)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.017.png)
+![Screenshot (833)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.017.png)
 
-![Screenshot (834)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.018.png)
+![Screenshot (834)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.018.png)
 
 **Ενότητα 3.8(Εμφάνιση κρατήσεων συνδεδεμένου χρήστη):**
 
@@ -1068,7 +1068,7 @@ Screenshots for reservation\_ticket:
 
 Screenshots for reservation\_userid:
 
-![Screenshot (850)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.019.png)
+![Screenshot (850)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.019.png)
 
 **Ενότητα 3.9(Εμφάνιση λεπτομερειών κράτησης):**
 
@@ -1078,9 +1078,9 @@ Screenshots for reservation\_userid:
 
 Screenshots for reservation\_details:
 
-![Screenshot (835)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.020.png)
+![Screenshot (835)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.020.png)
 
-![Screenshot (836)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.021.png)
+![Screenshot (836)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.021.png)
 
 **Ενότητα 3.10(Ακύρωση κράτησης):**
 
@@ -1088,7 +1088,7 @@ Screenshots for reservation\_details:
 
 Screenshots for cancel\_reservation:
 
-![Screenshot (837)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.022.png)
+![Screenshot (837)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.022.png)
 
 **Ενότητα 3.11(Διαγραφή λογαριασμού χρήστη):**
 
@@ -1096,7 +1096,7 @@ Screenshots for cancel\_reservation:
 
 Screenshots for delete\_user:
 
-![Screenshot (853)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.023.png)
+![Screenshot (853)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.023.png)
 
 **Ενότητα 3.12(Δημιουργία πτήσης):**
 
@@ -1108,7 +1108,7 @@ Screenshots for delete\_user:
 
 Screenshots for create\_flights:
 
-![Screenshot (841)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.024.png)
+![Screenshot (841)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.024.png)
 
 **Ενότητα 3.13(Ανανέωση τιμών εισιτηρίων πτήσης):**
 
@@ -1122,7 +1122,7 @@ Screenshots for create\_flights:
 
 Screenshots for update\_flights:
 
-![Screenshot (842)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.025.png)
+![Screenshot (842)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.025.png)
 
 **Ενότητα 3.14(Διαγραφή πτήσης):**
 
@@ -1130,9 +1130,9 @@ Screenshots for update\_flights:
 
 Screenshots for delete\_flights:
 
-![Screenshot (846)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.026.png)
+![Screenshot (846)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.026.png)
 
-![Screenshot (847)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.027.png)
+![Screenshot (847)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.027.png)
 
 **Ενότητα 3.15(Εμφάνιση λεπτομερειών πτήσης):**
 
@@ -1140,11 +1140,11 @@ Screenshots for delete\_flights:
 
 Screenshots for get\_flights\_details:
 
-![Screenshot (843)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.028.png)
+![Screenshot (843)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.028.png)
 
-![Screenshot (844)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.029.png)
+![Screenshot (844)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.029.png)
 
-![Screenshot (845)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.030.png)
+![Screenshot (845)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.030.png)
 
 **Ενότητα 3.16(Αναζήτηση πτήσεων με βάση τον κωδικό ):**
 
@@ -1152,9 +1152,9 @@ Screenshots for get\_flights\_details:
 
 Screenshots for get\_flights\_id:
 
-![Screenshot (831)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.031.png)
+![Screenshot (831)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.031.png)
 
-![Screenshot (832)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.032.png)
+![Screenshot (832)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.032.png)
 
 **Βιβλιογραφία εργασίας:**
 
