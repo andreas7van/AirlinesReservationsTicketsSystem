@@ -980,7 +980,7 @@ mongodb:
 
 Screenshots for register:
 
-![Screenshot (820)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.001.png)
+![Screenshot (820)](screenshots/Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.001.png)
 
 ![Screenshot (821)](Aspose.Words.c385cefe-883e-413c-8ad4-2b6fbc855785.002.png)
 
